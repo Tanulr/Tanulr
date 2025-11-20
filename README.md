@@ -10,15 +10,14 @@
 
 I'm an early-career product management enthusiast, passionate about building delightful, data-driven products that empower users. My journey spans internships and hands-on projects across the tech and gaming industries. Whether it's automating daily workflows, solving real-world problems, or designing engaging consumer experiences, I believe in learning by doing and pushing the boundaries of what technology can deliver.
 
-- **Location:** Bengaluru, India 🇮🇳
-- **Time Zone:** UTC+5:30
+- **Location:** New York
 - **Find me on:** [LinkedIn](https://linkedin.com/in/thanushree-r) | [ORCID](https://orcid.org/0009-0009-1193-2093)
 
 ---
 
 ## 🔧 Tech Stack & Skills
 
-- **Languages:** Python, Java, C++, JavaScript
+- **Languages:** Python, Java, Solidity, JavaScript
 - **Frameworks & Tools:** Flask, React, SQL, Pandas, Git, Firebase, MongoDB
 - **Other Skills:** Data Analysis, Automation Scripting, Product Design, Blockchain Fundamentals, Cloud Integration
 
@@ -37,12 +36,6 @@ A campus solution for hostel management (forked), customized for seamless admini
 
 ### 🕵️ Steganography  
 Implemented classic steganographic algorithms to encrypt and hide sensitive messages in images and files.
-
-### 🛠️ Skribble-123  
-A creative project for interactive doodling and digital sketching.
-
-### 🔒 CC_Proj_2  
-A collaboration project exploring cryptography and secure multi-party computation.
 
 ---
 

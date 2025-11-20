@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Thanushree! 👋
 
-<!--
-**Tanulr/Tanulr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Product Manager | Tech Enthusiast | Automation Lover
 
-Here are some ideas to get you started:
+> **Always building, always learning. Projects >> courses.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌎 About Me
+
+I'm an early-career product management enthusiast, passionate about building delightful, data-driven products that empower users. My journey spans internships and hands-on projects across the tech and gaming industries. Whether it's automating daily workflows, solving real-world problems, or designing engaging consumer experiences, I believe in learning by doing and pushing the boundaries of what technology can deliver.
+
+- **Location:** Bengaluru, India 🇮🇳
+- **Time Zone:** UTC+5:30
+- **Find me on:** [LinkedIn](https://linkedin.com/in/thanushree-r) | [ORCID](https://orcid.org/0009-0009-1193-2093)
+
+---
+
+## 🔧 Tech Stack & Skills
+
+- **Languages:** Python, Java, C++, JavaScript
+- **Frameworks & Tools:** Flask, React, SQL, Pandas, Git, Firebase, MongoDB
+- **Other Skills:** Data Analysis, Automation Scripting, Product Design, Blockchain Fundamentals, Cloud Integration
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 [Vaccine Tracker](https://github.com/Tanulr/Vaccine_Tracker)  
+A Covid-19 vaccine slot and data tracking tool built for rapid information access and usability.
+
+### 🤖 Hallothon  
+Designed a smart specs + robot solution to assist people with dementia: tracking, companionship, and action recognition.
+
+### 🏢 Hostel App  
+A campus solution for hostel management (forked), customized for seamless administration and student experience.
+
+### 🕵️ Steganography  
+Implemented classic steganographic algorithms to encrypt and hide sensitive messages in images and files.
+
+### 🛠️ Skribble-123  
+A creative project for interactive doodling and digital sketching.
+
+### 🔒 CC_Proj_2  
+A collaboration project exploring cryptography and secure multi-party computation.
+
+---
+
+## 🌟 What Drives Me
+
+- Building **consumer-facing tech** and solutions with measurable impact
+- Automating anything repetitive (because lazy is smart!)
+- Blending **tech insight** with **human-centered design**
+- Rapid prototyping and shipping projects that go beyond the classroom
+
+---
+
+## 💬 Let’s Connect!
+
+Want to chat about product, automation, or gaming tech? Reach out on [LinkedIn](https://linkedin.com/in/thanushree-r) or check out my projects here!
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Tanulr?label=Follow&style=social" /> 
+</p>
